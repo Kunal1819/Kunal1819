@@ -1,6 +1,6 @@
 👋 Hi, I’m Kunal
 
-🚀 Computer Engineering Student | Web Developer | Programmer
+🚀 Computer Engineering Student | Web and App Developer | Programmer👨🏻‍💻
 
 💻 Passionate about coding, problem-solving, and building impactful projects.
 
